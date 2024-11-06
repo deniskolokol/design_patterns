@@ -1,4 +1,7 @@
-# Builder Conceptual Example
+"""
+Builder conceptual example.
+Based on https://refactoring.guru/design-patterns/builder/python/example
+"""
 
 from __future__ import annotations
 from abc import ABC, abstractmethod

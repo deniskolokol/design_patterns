@@ -1,4 +1,5 @@
 """
+Abstract Factory example.
 Converted from a pseudo-code at https://refactoring.guru/design-patterns/abstract-factory
 """
 

@@ -1,5 +1,6 @@
 """
-General example from https://refactoring.guru/design-patterns/factory-method/python/example
+Factory Method conceptual example. 
+Based on https://refactoring.guru/design-patterns/factory-method/python/example
 """
 
 from __future__ import annotations
