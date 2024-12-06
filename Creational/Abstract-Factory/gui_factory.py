@@ -1,6 +1,7 @@
 """
 Abstract Factory example.
-Converted from a pseudo-code at https://refactoring.guru/design-patterns/abstract-factory
+Converted from a pseudo-code:
+https://refactoring.guru/design-patterns/abstract-factory
 """
 
 from __future__ import annotations
